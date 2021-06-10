@@ -1,0 +1,10 @@
+Foundation_English = float(input("Foundation English Score: "))
+General_Business = float(input("General Business: "))
+Introduction_to_Computer_Systems = float(input("Introduction to Computer Systems: "))
+Computer_Programming = float(input("Computer Programming: "))
+
+print("---Your Score---")
+print("Foundation English :",Foundation_English, "points")
+print("General Business :",General_Business, "points")
+print("Introduction to Computer System :",Introduction_to_Computer_Systems, "points")
+print("Computer Programming :",Computer_Programming, "points")
