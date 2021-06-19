@@ -1,0 +1,5 @@
+name,favourite movie,favourite animal
+Na,John Wick,Horse
+Arm,Pacific Rim,Dog
+Seang,Harry Potter,Cat
+Krit,Hobbit,Rabbit
